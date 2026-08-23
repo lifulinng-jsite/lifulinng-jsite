@@ -1,66 +1,118 @@
-# 👋 Hi, I’m a Software Engineer.
+# Hi, I'm Sean 👋
 
-Welcome to my GitHub profile! I’m a dedicated **Software Developer**, focused on building scalable, intelligent, and cross-platform applications. 🚀  
+### Full-Stack & AI Engineer · AI Agents · SaaS · Production Systems
 
-I specialize in creating efficient web architectures, robust backend systems, AI-powered solutions, and seamless mobile experiences.  
+I build **production-ready AI products and full-stack applications** - from modern web platforms and APIs to agentic workflows, RAG systems, automation, and cloud infrastructure.
+
+My focus is on turning AI capabilities into **reliable software that ships**: typed application layers, secure backend services, structured AI workflows, evaluation, observability, and scalable deployment.
 
 ---
 
-## 🛠️ Skills & Expertise
+## ⚡ What I Build
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- 🤖 **AI Agents & Agentic Workflows** - tool use, multi-step execution, human-in-the-loop flows
+- 🧠 **RAG & Knowledge Systems** - ingestion, embeddings, retrieval, citations, evaluation
+- ✨ **Generative AI Products** - copilots, assistants, document intelligence, AI search
+- 🚀 **SaaS Platforms** - authentication, billing, dashboards, multi-tenant architecture
+- 🔌 **APIs & Integrations** - REST, GraphQL, webhooks, third-party platforms
+- ⚙️ **AI Automation** - n8n, event-driven workflows, business process automation
+- 📱 **Cross-Platform Apps** - web and mobile product experiences
+- ☁️ **Production Infrastructure** - Docker, CI/CD, cloud deployment, monitoring
+
+---
+
+## 🧩 Core Stack
+
+### Application Engineering
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### AI Engineering
+`OpenAI` · `Anthropic Claude` · `Google Gemini` · `LangChain` · `LangGraph` · `RAG` · `Embeddings` · `Vector Search` · `Tool Calling` · `Structured Outputs` · `LLM Evaluation`
+
+### Data & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Cloud & Delivery
+`AWS` · `Azure` · `GCP` · `Docker` · `GitHub Actions` · `CI/CD` · `Serverless` · `Observability`
+
+### Automation & Integrations
+`n8n` · `Webhooks` · `REST APIs` · `GraphQL` · `Stripe` · `OAuth` · `CRM Integrations`
 
 ---
 
-## 🌟 About Me
+## 🧠 AI Systems I Work On
 
-I am a **results-driven developer** with expertise in **fullstack web development, cross-platform mobile applications, and AI/ML solutions**.  
-I design and implement **scalable systems**, build **intuitive user interfaces**, and integrate **intelligent features powered by AI**.  
+### Agentic Applications
+I design AI systems that can reason over application state, call tools and APIs, interact with databases, execute multi-step workflows, and escalate to humans when confidence or permissions require it.
 
-I thrive on **problem-solving, innovation, and delivering high-quality software** that combines **performance, usability, and cutting-edge technology**.  
+### Retrieval-Augmented Generation
+I build production RAG pipelines around:
+
+```text
+Data Sources
+    ↓
+Ingestion & Parsing
+    ↓
+Chunking / Metadata
+    ↓
+Embeddings
+    ↓
+Vector + Hybrid Retrieval
+    ↓
+Reranking / Context Assembly
+    ↓
+LLM Generation
+    ↓
+Evaluation & Observability
+```
+
+### AI-Native SaaS
+I integrate AI into real product architecture - authentication, permissions, billing, usage limits, queues, streaming responses, background jobs, auditability, cost controls, and production monitoring.
 
 ---
 
-## 💡 What I Build
+## 🏗️ Engineering Principles
 
-- **Web Applications:** Scalable, modern, and responsive interfaces using **Next.js, React, Angular, and Vue.js**  
-- **Mobile Applications:** Cross-platform apps built with **Flutter, React Native, Swift, and Kotlin**  
-- **AI & Machine Learning:** Intelligent solutions with **Python, TensorFlow, PyTorch, and OpenCV**  
-- **Data-Driven Solutions:** Using **Pandas, NumPy, Matplotlib, and scikit-learn** for analytics and visualization  
-- **Cloud & DevOps Ready:** Deployment and infrastructure management with **Docker, Firebase, and cloud platforms**  
+```text
+Build for production, not just the demo.
+Keep AI outputs structured and testable.
+Use strong contracts between models, APIs, and application code.
+Measure quality instead of relying on prompt intuition.
+Design failure states before happy paths.
+Automate delivery without sacrificing review and security.
+```
 
 ---
 
-## ⚡ Fun Facts
-- I enjoy **solving complex problems, building intelligent applications, and exploring new technologies** 🤖  
-- Outside of tech: **cycling, gaming, and coffee-fueled late-night coding** ☕  
+## 🔭 Current Focus
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- Agentic AI and tool-using systems
+- Production RAG and retrieval quality
+- LLM evaluation and observability
+- Type-safe AI application architecture
+- AI-powered SaaS products
+- Workflow automation and API orchestration
+- Secure, scalable cloud deployments
+- AI-assisted engineering workflows
+
+---
+
+## 💼 Areas of Expertise
+
+**Full-Stack Development** · **AI Engineering** · **Generative AI** · **AI Agents** · **RAG** · **SaaS Development** · **API Architecture** · **PostgreSQL** · **Supabase** · **Automation** · **Cloud Infrastructure**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in building products where **AI and strong software engineering work together** - especially SaaS, agentic applications, intelligent automation, knowledge systems, and API-driven platforms.
+
+> **From prototype to production: full-stack engineering for the AI-native era.**
